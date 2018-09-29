@@ -1,12 +1,12 @@
-package com.superbeyone.myblog;
+package com.superbeyone.blog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyBlogApplication {
+public class BlogApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MyBlogApplication.class, args);
+        SpringApplication.run(BlogApplication.class, args);
     }
 }

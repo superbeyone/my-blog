@@ -1,4 +1,4 @@
-package com.superbeyone.myblog;
+package com.superbeyone.blog;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
